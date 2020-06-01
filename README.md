@@ -1,5 +1,5 @@
 # diploma
-creating project structure for compiling and parallelizing fortran programs
+creating project structure for compiling and parallelizing fortran programs.
 The solution was developed in Microsoft Visual Studio 2017.
 
 All files of fortran program should be listed in one file (for example projectFiles.txt). 
