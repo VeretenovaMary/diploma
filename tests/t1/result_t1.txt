@@ -1,0 +1,8 @@
+/* _lineLen = 0 */
+program
+print*,"if _linelen <= 132 this won't be printed"
+end
+
+/* _lineLen = 132 */
+program
+end

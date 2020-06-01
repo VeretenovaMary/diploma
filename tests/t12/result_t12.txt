@@ -1,0 +1,7 @@
+program
+print*,"there is a line continuation"
+print*,"there is a line continuation"
+print*,"there is a line continuation"
+print*,"there is no line continuation"
+print*,"character context line continuation"
+end

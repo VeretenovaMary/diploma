@@ -1,0 +1,1 @@
+error: file file25.f90 includes itself

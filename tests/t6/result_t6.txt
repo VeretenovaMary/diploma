@@ -1,0 +1,10 @@
+program
+print*,"this string won't be separated"
+print*,"this also won't be"
+print*,"this character ! will be printed"
+print*,"this characters !! will be printed"
+print*,"this character ! will be printed"
+print*,"this character & will be printed"
+print*,"this characters && will be printed"
+print*,"this character & will be printed"
+end

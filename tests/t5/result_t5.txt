@@ -1,0 +1,5 @@
+program
+print*,"statement"
+print*,"statement"
+print*,"statement"
+end

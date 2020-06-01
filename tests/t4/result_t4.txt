@@ -1,0 +1,7 @@
+program
+print*,"this ; won't terminate stmt"
+print*,"but next "
+print*,"will terminate stmt"
+print*,"just two "
+print*,"statements"
+end

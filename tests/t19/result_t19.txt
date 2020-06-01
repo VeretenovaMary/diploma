@@ -1,0 +1,36 @@
+
+file level, file name :
+
+0, file19_1.f90
+1, file19_2.f90
+1, file19_3.f90
+2, file19_4.f90
+
+
+moduleInit :
+
+1 mod1
+    file19_1.f90
+
+2 mod2
+    file19_2.f90
+
+3 mod3
+    file19_3.f90
+
+4 mod4
+    file19_4.f90
+
+
+usedModules :
+
+1 file19_2.f90
+    mod1
+
+2 file19_3.f90
+    mod1
+
+3 file19_4.f90
+    mod2
+    mod3
+

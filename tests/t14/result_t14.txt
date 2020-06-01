@@ -1,0 +1,5 @@
+program
+print*,"tab in the 1st position"
+print*,"tab in the 5th position"
+print*,"line continuation with tab in 6th popsition and number in next position"
+end

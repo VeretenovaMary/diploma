@@ -1,0 +1,25 @@
+
+file level, file name :
+
+0, file17.f90
+
+
+moduleInit :
+
+1 a
+    file17.f90
+
+2 b
+    file17.f90
+
+3 procedure
+    file17.f90
+
+
+usedModules :
+
+1 file17.f90
+    a
+    b
+    procedure
+

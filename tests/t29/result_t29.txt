@@ -1,0 +1,2 @@
+error: module mod2 includes itself
+error: module mod1 includes itself

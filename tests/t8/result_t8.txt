@@ -1,0 +1,8 @@
+/* lineLen = 72*/
+program
+end
+
+/* lineLen = 132 */
+program
+print*,"132 characters in _linelen"
+end
