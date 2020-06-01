@@ -21,7 +21,6 @@ int main(int argc, char **argv) {
 			break;
 		default:
 			filePath = std::string(curr_arg);
-			std::cout << filePath.c_str() << std::endl;
 			break;
 		}
 	}
